@@ -1,0 +1,130 @@
+{
+  "samsung": [
+    {
+      "name": "Samsung Galaxy S10 Plus",
+      "id": "mobile1",
+      "imageUrl": "img/samsung1.jpg",
+      "price": "Rs.61,900"
+    },
+    {
+      "name": "Samsung Galaxy S9 Plus",
+      "id": "mobile2",
+      "imageUrl": "img/samsung2.jpg",
+      "price": "Rs.29,999"
+    },
+    {
+      "name": "Samsung Galaxy Note 9",
+      "id": "mobile3",
+      "imageUrl": "img/samsung3.jpg",
+      "price": "Rs.56,999"
+    },
+    {
+      "name": "Samsung Galaxy S10e",
+      "id": "mobile4",
+      "imageUrl": "img/samsung4.jpg",
+      "price": "Rs.46,999"
+    },
+    {
+      "name": "Samsung Galaxy S8 Plus",
+      "id": "mobile5",
+      "imageUrl": "img/samsung5.jpg",
+      "price": "Rs.37,999"
+    },
+    {
+      "name": "Samsung Galaxy S9 Plus 128GB",
+      "id": "mobile6",
+      "imageUrl": "img/samsung6.jpg",
+      "price": "Rs.42,990"
+    },
+    {
+      "name": "Samsung Galaxy J7 Prime",
+      "id": "mobile7",
+      "imageUrl": "img/samsung7.jpg",
+      "price": "Rs.28,899"
+    },
+    {
+      "name": "Samsung Galaxy A70",
+      "id": "mobile8",
+      "imageUrl": "img/samsung8.jpg",
+      "price": "Rs.21,999"
+    }
+  ],
+  "apple": [
+    {
+      "name": "Apple iPhone 7 Plus",
+      "id": "mobile9",
+      "imageUrl": "img/apple1.jpg",
+      "price": "Rs.34,999"
+    },
+     
+    {
+      "name": "Apple iPhone 11",
+      "id": "mobile10",
+      "imageUrl": "img/apple2.jpg",
+      "price": "Rs.63,900"
+    },
+    {
+      "name": "Apple iPhone XR",
+      "id": "mobile11",
+      "imageUrl": "img/apple3.jpg",
+      "price": "Rs.47,900"
+    },
+    {
+      "name": "Apple iPhone 7",
+      "id": "mobile12",
+      "imageUrl": "img/apple4.jpg",
+      "price": "Rs.26,329"
+    },
+    {
+      "name": "Apple iPhone X",
+      "id": "mobile13",
+      "imageUrl": "img/apple5.jpg",
+      "price": "Rs.83,199"
+    },
+    {
+      "name": "Apple iPhone 6s 32GB",
+      "id": "mobile14",
+      "imageUrl": "img/apple6.jpg",
+      "price": "Rs.22,990"
+    },
+    {
+      "name": "Apple iPhone 11 Pro",
+      "id": "mobile15",
+      "imageUrl": "img/apple7.jpg",
+      "price": "Rs.96,900"
+    }
+  ],
+  "nokia": [
+    {
+      "name": "Nokia 8.1",
+      "id": "mobile16",
+      "imageUrl": "img/nokia1.jpg",
+      "price": "Rs.15,999"
+    },
+     
+    {
+      "name": "Nokia 6.1 Plus (Nokia X6)",
+      "id": "mobile17",
+      "imageUrl": "img/nokia2.jpg",
+      "price": "Rs.8,999"
+    },
+    {
+      "name": "Nokia 7.2",
+      "id": "mobile18",
+      "imageUrl": "img/nokia3.jpg",
+      "price": "Rs.14,500"
+    },
+    {
+      "name": "Nokia 8 Sirocco",
+      "id": "mobile19",
+      "imageUrl": "img/nokia4.jpg",
+      "price": "Rs.22,999"
+    },
+    {
+      "name": "Nokia 9",
+      "id": "mobile20",
+      "imageUrl": "img/nokia5.jpg",
+      "price": "Rs.45,550"
+    }
+  ]
+}
